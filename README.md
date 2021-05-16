@@ -1,0 +1,2 @@
+# wlgen
+gerador de wordlist
